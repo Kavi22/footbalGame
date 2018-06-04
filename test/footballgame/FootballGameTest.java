@@ -1,16 +1,10 @@
-package footballgame1;
+package footballgame;
 
-import footballgame.Fan;
-import footballgame.FootballGame;
-import footballgame.Reporter;
-import footballgame.Spectator;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-
 import java.util.ArrayList;
 
-import static org.hamcrest.MatcherAssert.assertThat;
 import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.verify;
 
